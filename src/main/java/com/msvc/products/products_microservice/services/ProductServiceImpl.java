@@ -3,7 +3,6 @@ package com.msvc.products.products_microservice.services;
 import com.msvc.products.products_microservice.entities.Product;
 
 import com.msvc.products.products_microservice.repositories.ProductRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
